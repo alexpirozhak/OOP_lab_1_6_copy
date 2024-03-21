@@ -1,0 +1,11 @@
+# ninja log v5
+0	2775	1710979538964530967	CMakeFiles/OOP_lab_1_6_copy.dir/main.cpp.o	340a36e3e7ba8179
+3	2816	1710979539010268321	CMakeFiles/OOP_lab_1_6_copy.dir/BusC.cpp.o	62943306a02a766a
+2816	2955	1710979539155774636	OOP_lab_1_6_copy	72558879145207e0
+2	2919	1710980195729238476	Google_tests/CMakeFiles/Google_Tests_run.dir/__/BusC.cpp.o	9a963d295280b4f7
+1	4172	1710980196978387448	Google_tests/CMakeFiles/Google_Tests_run.dir/test.cpp.o	88fb441b99ab0df0
+2920	5673	1710980198480803624	Google_tests/lib/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	2a6455daa4e50f6
+3	8226	1710980201025193219	Google_tests/lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	ef2527b5c410fc8b
+8227	8493	1710980201315725000	lib/libgtest.a	c6f01884f2718f79
+8493	8557	1710980201380887000	lib/libgtest_main.a	2cc3c6d061b36794
+8557	8685	1710980201496272389	Google_tests/Google_Tests_run	5e0b01d2ff4feb74
